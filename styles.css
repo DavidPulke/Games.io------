@@ -1,4 +1,3 @@
-/* CSS כאן תוסיף את ה */
 * {
     box-sizing: border-box;
     margin: 0;
@@ -8,6 +7,10 @@
 body {
     font-family: Arial, sans-serif;
     direction: rtl;
+}
+
+html {
+    scroll-behavior: smooth;
 }
 
 /* סגנון הכפתור של האקורדיון */
